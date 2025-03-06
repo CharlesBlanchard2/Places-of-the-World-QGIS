@@ -3,6 +3,8 @@
 
 ### This code is produced by Charles Blanchard as a student project towards the completion of the Geographic Information Systems Program at the Centre of Geographic Sciences, NSCC, Lawrencetown, Nova Scotia. <br> This product is unedited, unverified, and intended for educational purposes only. <br> ©2024 COGS. 
 
+## Purpose
+Create a report file shwoing quadrants, quadrant population, and lowest/highest populated points based on user-selected points from a shapefile
 
 ## How to Run – placesWorld_CB.py within QGIS
 ### Step 1
